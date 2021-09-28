@@ -11,7 +11,8 @@ Neste projeto, da aplicação <strong>To.Do</strong>, elaborado pela <strong>Roc
 * Alterar entre `true` ou `false` o campo `isComplete` de uma task com dado ID.
 * Remover uma task da listagem pelo ID.
 
-<br />
+As alterações foram feitas em <strong>src/components/TaskList.tsx</strong>.
+
 
 ### Ferramentas e tecnologias utilizadas:
 
